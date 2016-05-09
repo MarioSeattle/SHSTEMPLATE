@@ -18,6 +18,7 @@
 @import url("font-awesome.css");			/* Font Awesome */
 @import url("font-awesome-ie7.css");		/* Font Awesome */
 
+
 /* Colors Section
 =================================================================== */
 .color.white {
@@ -112,7 +113,6 @@
 .color.yellow h2 span {
 	background: #ffeb41;
 }
-
 
 body {
 	font-family: 'Droid Sans';
